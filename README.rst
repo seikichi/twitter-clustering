@@ -7,6 +7,8 @@ What's this?
 Twitterのフォロー関係からユーザーをクラスタリング．
 KMCの例会講座(2011/10/31)で発表したネタ(使ったデータ同梱)．
 
+スライドは http://moon.kmc.gr.jp/~seikichi/slide/kmc111031.pdf
+
 Run
 =================
 ::
